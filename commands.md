@@ -14,6 +14,9 @@ Iniciar o projeto
 Configurando Typescript
 `tsconfig.json`-> `compilerOptions` -> add `"baseUrl": "./src"`
 
+Adicionar Boostrap
+`yarn add bootstrap`
+
 ## Back-end
 
 Criar projeto com Spring Initializer
