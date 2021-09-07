@@ -17,6 +17,9 @@ Configurando Typescript
 Adicionar Boostrap
 `yarn add bootstrap`
 
+Adicionar apexcharts
+`yarn add apexcharts react-apexcharts`
+
 ## Back-end
 
 Criar projeto com Spring Initializer
