@@ -63,7 +63,3 @@ Mapeamento do Objeto Seller
   @OneToMany(mappedBy = "seller")
   ```
 
-Mapeamento do Obejto Sale
-
-* 
-
