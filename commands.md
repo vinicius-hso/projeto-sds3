@@ -20,6 +20,14 @@ Adicionar Boostrap
 Adicionar apexcharts
 `yarn add apexcharts react-apexcharts`
 
+Adicionar React-router-dom
+`yarn add react-router-dom`
+
+Adicionar tipos do TypeScript
+`yarn add @types/react-router-dom -D`
+
+
+
 ## Back-end
 
 Criar projeto com Spring Initializer
