@@ -29,6 +29,9 @@ __Adicionar tipos do TypeScript__
 __Adicionar Axios__
 `yarn add axios`
 
+__Adicionar Date-FNS__
+`yarn add date-fns`
+
 
 
 ## Back-end
