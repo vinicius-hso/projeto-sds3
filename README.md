@@ -13,7 +13,9 @@ A aplicação consiste em exibir um dashboard a partir de dados fornecidos por u
 
 ## Layout web
 
-![]()
+![](https://github.com/vinicius-hso/projeto-sds3/blob/master/assets/dashboard.png)
+
+![](https://github.com/vinicius-hso/projeto-sds3/blob/master/assets/lista.png)
 
 # Tecnologias utilizadas
 
