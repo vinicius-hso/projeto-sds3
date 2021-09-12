@@ -2,29 +2,32 @@
 
 ## Front-end
 
-Criar projeto
+__Criar projeto__
 `npx create-react-app front-end --template typescript`
 
-Remover diretório .git
+__Remover diretório .git__
 `rm -rf .git`
 
-Iniciar o projeto
+__Iniciar o projeto__
 `yarn start`
 
-Configurando Typescript
+__Configurando Typescript__
 `tsconfig.json`-> `compilerOptions` -> add `"baseUrl": "./src"`
 
-Adicionar Boostrap
+__Adicionar Boostrap__
 `yarn add bootstrap`
 
-Adicionar apexcharts
+__Adicionar apexcharts__
 `yarn add apexcharts react-apexcharts`
 
-Adicionar React-router-dom
+__Adicionar React-router-dom__
 `yarn add react-router-dom`
 
-Adicionar tipos do TypeScript
+__Adicionar tipos do TypeScript__
 `yarn add @types/react-router-dom -D`
+
+__Adicionar Axios__
+`yarn add axios`
 
 
 
@@ -70,4 +73,26 @@ Mapeamento do Objeto Seller
   //
   @OneToMany(mappedBy = "seller")
   ```
+
+## Deploy
+
+__Heroku__
+
+```
+postgres://
+
+dxtebsilednniw
+
+:
+
+77c7a292eaa8f48277acc9e3297b0820182882ce09a53f88bf7d8e89c0a451bc
+
+@ec2-44-195-16-34.compute-1.amazonaws.com:
+
+5432
+
+/
+
+dp82kglkvnujv
+```
 
